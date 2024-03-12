@@ -1,4 +1,4 @@
-### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <!--
 **Mandar1511/Mandar1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
