@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandar</h1>
 <h3 align="center">Computer Science Student at IIT Dharwad</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandar1511&label=Profile%20views&color=0e75b6&style=flat" alt="mandar1511" /> </p>
-
 - 📫 How to reach me **210010014@iitdh.ac.in**
 
 <h3 align="left">Languages and Tools:</h3>
